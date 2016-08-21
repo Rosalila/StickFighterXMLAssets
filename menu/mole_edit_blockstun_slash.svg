@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:ns0="http://xmoto.tuxfamily.org/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1366"
+   height="768"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="mole_edit_blockstun_slash.svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="746"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="0.5050821"
+     inkscape:cx="441.19345"
+     inkscape:cy="415.53774"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+        <dc:description
+           ns0:default_xmoto_label="position:_smooth=9.0|physics:grip=45.8" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,0)">
+    <image
+       sodipodi:absref="/home/turupawn/Projects/Fighter/assets/menu/backgrounds/edit_your_character.png"
+       xlink:href="backgrounds/edit_your_character.png"
+       fade_in_speed="0"
+       fade_in_initial="255"
+       y="0"
+       x="0"
+       id="image2992"
+       height="768"
+       width="1366" />
+    <image
+       sodipodi:absref="/home/turupawn/Projects/Fighter/assets/menu/buttons/back.png"
+       xlink:href="buttons/back.png"
+       y="132.49899"
+       x="188.24001"
+       id="image2984"
+       height="138"
+       width="265"
+       type="button"
+       action="exit"
+       load_menu="test.svg"
+       image_selected="buttons/back_selected.png" />
+    <image
+       sodipodi:absref="/home/turupawn/Projects/Fighter/assets/menu/buttons/+.png"
+       xlink:href="buttons/+.png"
+       image_selected="buttons/+_selected.png"
+       y="254.166"
+       x="188.24001"
+       id="image2989"
+       height="138"
+       width="265"
+       type="button"
+       action="GameplayEdit.Mole.BlockstunSlash:+1"
+       load_menu="selection_screen_training.svg" />
+    <image
+       sodipodi:absref="/home/turupawn/Projects/Fighter/assets/menu/buttons/default.png"
+       xlink:href="buttons/default.png"
+       load_menu="selection_screen_training.svg"
+       action="GameplayEdit.Mole.ShowBlockstunSlash"
+       type="button"
+       width="265"
+       height="138"
+       id="image2988"
+       x="188.24001"
+       y="375.83401"
+       image_selected="buttons/default_selected.png"
+       text_x="350"
+       text_y="25" />
+    <image
+       sodipodi:absref="/home/turupawn/Projects/Fighter/assets/menu/buttons/-.png"
+       xlink:href="buttons/-.png"
+       image_selected="buttons/-_selected.png"
+       y="497.50101"
+       x="188.24001"
+       id="image2990"
+       height="138"
+       width="265"
+       type="button"
+       action="GameplayEdit.Mole.BlockstunSlash:-1"
+       load_menu="selection_screen_training.svg" />
+  </g>
+</svg>

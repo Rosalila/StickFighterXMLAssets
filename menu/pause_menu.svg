@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:ns0="http://xmoto.tuxfamily.org/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1366"
+   height="768"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="pause_menu.svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="746"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="0.5050821"
+     inkscape:cx="515.09686"
+     inkscape:cy="304.2579"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+        <dc:description
+           ns0:default_xmoto_label="position:_smooth=9.0|physics:grip=45.8" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,0)">
+    <image
+       sodipodi:absref="/home/turupawn/Projects/Fighter/assets/menu/backgrounds/pause.png"
+       xlink:href="backgrounds/pause.png"
+       fade_in_speed="0"
+       fade_in_initial="255"
+       y="0"
+       x="0"
+       id="image2992"
+       height="768"
+       width="1366" />
+    <image
+       sodipodi:absref="/home/turupawn/Projects/Fighter/assets/menu/buttons/resume.png"
+       xlink:href="buttons/resume.png"
+       image_selected="buttons/resume_selected.png"
+       load_menu="test.svg"
+       action="resume"
+       type="button"
+       width="265"
+       height="138"
+       id="image2995"
+       x="550.5"
+       y="297.47955" />
+    <image
+       sodipodi:absref="/home/turupawn/Projects/Fighter/assets/menu/buttons/exit.png"
+       xlink:href="buttons/exit.png"
+       image_selected="buttons/exit_selected.png"
+       y="471.70868"
+       x="550.5"
+       id="image2984"
+       height="138"
+       width="265"
+       type="button"
+       action="exit"
+       load_menu="test.svg" />
+  </g>
+</svg>

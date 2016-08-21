@@ -1,0 +1,17 @@
+<VarsFile>
+	<Move name="blockstun.stand">
+		<Frame number="1">
+			<String variable="Animation.blocked_hit" value="on" to_opponent="yes"/>
+		</Frame>
+	</Move>
+	<Move name="blockstun.crouch">
+		<Frame number="1">
+			<String variable="Animation.blocked_hit" value="on" to_opponent="yes"/>
+		</Frame>
+	</Move>
+	<Move name="on_hit.stand">
+		<Frame number="1">
+			<String variable="Animation.hit" value="on" to_opponent="yes"/>
+		</Frame>
+	</Move>
+</VarsFile>
